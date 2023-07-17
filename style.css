@@ -7,7 +7,6 @@ body{
 .profil{
  text-align: center;
  margin-top: 50px;
- 
 }
 
 .profil img{
@@ -18,13 +17,10 @@ body{
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-
 .box-container{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-   
-    
+    justify-content: center;   
 }
 
 .box1{
@@ -35,8 +31,7 @@ body{
     transition: 0.5s;
     cursor: pointer;
     background: #40868B;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-   
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  
 }
 
 li {
@@ -44,8 +39,6 @@ li {
     text-align: center;
     font-weight: bold;
     margin-top: -10px;
-   
-    
 }
 
 li a {
@@ -57,13 +50,13 @@ li a {
 }
 
 .box1:hover{
-    transform: scale(1.1);
-    
+    transform: scale(1.1); 
 }
 
 li a:hover{
     color: #fff;
 }
+
 
 
 
